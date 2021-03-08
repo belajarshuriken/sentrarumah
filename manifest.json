@@ -1,0 +1,39 @@
+{
+  "name": "SENTRA RUMAH",
+  "short_name": "sentrarumah",
+  "scope": "https://sentrarumah.com/",
+  "start_url": "https://sentrarumah.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "DESKRIPSI BLOG ANDA",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-cDPeN3YV-Gc/YEWTDVSg6JI/AAAAAAAABgw/qP-ZuKuwMDsiXNKodbwjsNEDk5dcw_PuwCLcBGAsYHQ/s48/home.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cDPeN3YV-Gc/YEWTDVSg6JI/AAAAAAAABgw/qP-ZuKuwMDsiXNKodbwjsNEDk5dcw_PuwCLcBGAsYHQ/s72/home.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cDPeN3YV-Gc/YEWTDVSg6JI/AAAAAAAABgw/qP-ZuKuwMDsiXNKodbwjsNEDk5dcw_PuwCLcBGAsYHQ/s96/home.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cDPeN3YV-Gc/YEWTDVSg6JI/AAAAAAAABgw/qP-ZuKuwMDsiXNKodbwjsNEDk5dcw_PuwCLcBGAsYHQ/s144/home.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cDPeN3YV-Gc/YEWTDVSg6JI/AAAAAAAABgw/qP-ZuKuwMDsiXNKodbwjsNEDk5dcw_PuwCLcBGAsYHQ/s168/home.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cDPeN3YV-Gc/YEWTDVSg6JI/AAAAAAAABgw/qP-ZuKuwMDsiXNKodbwjsNEDk5dcw_PuwCLcBGAsYHQ/s192/home.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cDPeN3YV-Gc/YEWTDVSg6JI/AAAAAAAABgw/qP-ZuKuwMDsiXNKodbwjsNEDk5dcw_PuwCLcBGAsYHQ/s512/home.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
